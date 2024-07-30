@@ -81,4 +81,3 @@ Dicas
     └── Dicas e Truques
 ```
 
-Essa estrutura organiza os tópicos em categorias lógicas, facilitando a navegação e a busca por informações específicas. Você pode ajustar conforme necessário para melhor atender às suas necessidades ou adicionar mais subcategorias se necessário.
