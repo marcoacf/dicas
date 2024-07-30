@@ -1,5 +1,16 @@
 # dicas
 Minhas dicas para alguns assuntos:
+
+[Carreira_RH](Carreira_RH/)
+```
+├── Carreira_RH
+│   ├── Planejamento de Carreira
+│   ├── Desenvolvimento Profissional
+│   ├── Tendências do Mercado
+│   ├── Entrevistas e Currículos
+│   └── Soft Skills
+```
+
 ```
 Dicas
 ├── Python
