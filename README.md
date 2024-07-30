@@ -1,7 +1,7 @@
 # dicas
 Minhas dicas para alguns assuntos:
 
-[Carreira_RH](Carreira_RH/)
+[Carreira & RH](Carreira_RH/)
 ```
 ├── Carreira_RH
 │   ├── Planejamento de Carreira
